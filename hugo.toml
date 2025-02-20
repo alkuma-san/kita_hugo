@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
-title = '北村のHugo Site。PR切ってます。'
+title = '北村のHugo Site。PR作成したら自動で出来てる。'
 theme = 'ananke'
